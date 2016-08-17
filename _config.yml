@@ -1,7 +1,7 @@
 name: Chris J Rodriguez
 favicon: null
-layout_spectrum: 0.41142786270938814
-typography_spectrum: 0.05366878304630518
+layout_spectrum: 1
+typography_spectrum: 0.59518
 title: Director | Writer | Filmmaker
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-  brandStrength: 0.7382104976568371
-  lightness: 0.23412063159048557
+    - '#ffffff'
+    - '#000000'
+    - '#496386'
+    - '#7990ad'
+    - '#a5b4cc'
+  brandStrength: 0.875
+  lightness: 0.5
   saturation: 0.2002002657391131
-  rhythmicContrast: 0.23423607810400426
+  rhythmicContrast: 0.25
 purpose: []
